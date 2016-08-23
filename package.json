@@ -4,7 +4,7 @@
     "type" : "git",
     "url" : "https://github.com/lwansbrough/react-native-camera.git"
   },
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Splash screen - the right way android",
   "author": "Fredrick Bäcker <fredrick.backer@gmail.com>",
   "nativePackage": true,
